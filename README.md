@@ -1,4 +1,4 @@
-# Olá! Eu sou o Vítor 👋
+## Olá! Eu sou o Vítor 👋
 
 Sou estudante de **Engenharia Mecânica na UERJ**, com interesse em tecnologia, computação e desenvolvimento de soluções aplicadas à engenharia.
 
@@ -6,19 +6,17 @@ Tenho experiência com **Python, C/C++ e computação científica**, além de pr
 
 Gosto de trabalhar na interseção entre **software e hardware**, explorando como ferramentas computacionais podem ser utilizadas para resolver problemas de engenharia.
 
----
+
 
 ### 💻 Tecnologias e Ferramentas
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 2px;"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin: 2px;"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin: 2px;"/>
 <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" style="margin: 2px;"/>
 
-
-
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 2px;"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="margin: 2px;"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" style="margin: 2px;"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" style="margin: 2px;"/>
@@ -31,10 +29,8 @@ Gosto de trabalhar na interseção entre **software e hardware**, explorando com
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" style="margin: 2px;"/>
 <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif" style="margin: 2px;"/>
 <img src="https://img.shields.io/badge/Orange%20Pi-FF8A00?style=for-the-badge&logoColor=white" alt="Orange Pi" style="margin: 2px;"/>
-
 </div>
 
----
 
 ### 🚀 Áreas
 
@@ -46,16 +42,6 @@ Gosto de trabalhar na interseção entre **software e hardware**, explorando com
 * Projetos aeroespaciais
 * Desenvolvimento de software
 
----
-
-### 🛠️ Projetos
-
-Atualmente, venho desenvolvendo projetos que envolvem **programação, eletrônica e sistemas embarcados**, buscando integrar diferentes áreas da engenharia e da computação.
-
-Tenho particular interesse em projetos práticos nos quais seja possível combinar **modelagem, programação e hardware**.
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -66,8 +52,6 @@ Tenho particular interesse em projetos práticos nos quais seja possível combin
 
 </div>
 
-
----
 
 ### 📫 Contato
 
