@@ -42,16 +42,6 @@ Gosto de trabalhar na interseção entre **software e hardware**, explorando com
 * Projetos aeroespaciais
 * Desenvolvimento de software
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorforny04&show_icons=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorforny04&layout=compact"/>
-
-</div>
-
 
 ### 📫 Contato
 
@@ -60,17 +50,9 @@ Gosto de trabalhar na interseção entre **software e hardware**, explorando com
 <a href="mailto:duarteforny@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <a href="https://www.linkedin.com/in/vítor-duarte-forny-829852243">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
 
----
-
-<div align="center">
-
-**Engineering • Computing • Technology**
-
-</div>
