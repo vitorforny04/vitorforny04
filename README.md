@@ -31,6 +31,10 @@ Gosto de trabalhar na interseção entre **software e hardware**, explorando com
 <img src="https://img.shields.io/badge/Orange%20Pi-FF8A00?style=for-the-badge&logoColor=white" alt="Orange Pi" style="margin: 2px;"/>
 </div>
 
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</div>
+
 
 ### 🚀 Áreas
 
